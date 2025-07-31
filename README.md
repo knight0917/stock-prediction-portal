@@ -18,4 +18,14 @@ Steps to follow:
 14. to ignore some things while uploading on github: make a file named .gitignore in your main dir.
 15. get into this website: https://www.toptal.com/developers/gitignore and copy the things related to technology and paste it into the .gitignore file
 16. make repo in github
-17. 
+17. git init >  git add .  >  git commit -m "0.1" >  git branch -M main > git remote add origin "Your repo link" > git push -uf origin main (force push)
+18. https://getbootstrap.com/docs/5.0/getting-started/introduction/
+19. after completing things if you want to push things in git follow: git status >  git add . > git push origin main
+20. py manage.py migrate : this will create all the default db tables.
+21. py manage.py createsuperuser: to create and access django db admin panel.
+22. pip install djangorestframework : for rest framework.
+23. then start app according to your needs.
+
+24. get add -A
+25. git commit -m "your message"
+26. git push origin main
