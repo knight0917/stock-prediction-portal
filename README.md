@@ -34,4 +34,6 @@ Steps to follow:
 28. npm i axios in front-end: to send and get data from backend and front end
 29. pip install djanog-cors-headers: to access django from react
 30. for icon or font install from fontowsome react. example: loading
+31. for login we are installing a package: https://django-rest-framework-simplejwt.readthedocs.io/en/latest/getting_started.html#installation
+32. 
 
