@@ -29,3 +29,9 @@ Steps to follow:
 24. get add -A
 25. git commit -m "your message"
 26. git push origin main
+
+27. npm i react-router-dom in front-end: to pass url without refreshing.
+28. npm i axios in front-end: to send and get data from backend and front end
+29. pip install djanog-cors-headers: to access django from react
+30. for icon or font install from fontowsome react. example: loading
+
