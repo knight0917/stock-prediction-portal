@@ -35,5 +35,4 @@ Steps to follow:
 29. pip install djanog-cors-headers: to access django from react
 30. for icon or font install from fontowsome react. example: loading
 31. for login we are installing a package: https://django-rest-framework-simplejwt.readthedocs.io/en/latest/getting_started.html#installation
-32. 
 
