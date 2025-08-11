@@ -36,3 +36,19 @@ Steps to follow:
 30. for icon or font install from fontowsome react. example: loading
 31. for login we are installing a package: https://django-rest-framework-simplejwt.readthedocs.io/en/latest/getting_started.html#installation
 
+
+
+32. Install miniconda form web: this will install a anaconda terminal(prompt)
+33. for version checking: open anaconda prompt and write conda --version
+34. your anacoda have some environment to check that: conda env list
+35. to create new environment: conda create --name "name"
+36. to activate: conda activate "name"
+37. after activation, to install Jupyter: conda install Jupyter, for V check: Jupyter --version 
+38. Now go to dir of your project and make new folder and get into that folder via conda terminal
+39. to open jupyter in browser: jupyter notebook
+40. to install pandas, numpy, matplotlib in conda: conda install "name to install"
+41. put every file csv kind of file Resources to be seen in Notebook.
+
+42. to download market data enter in jupyter: !pip install yfinance (can delete that line in juoyter after installation and just import it.)
+43. for data processing we need to install scikit-learn, keras: conda install scikit-learn keras
+44. to install tenserflow in jupyter notebook: !pip install tensorflow
