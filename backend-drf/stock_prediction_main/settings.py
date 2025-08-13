@@ -146,3 +146,8 @@ SIMPLE_JWT = {
 }
 
 
+# meadia files config
+MEDIA_URL = '/media/'
+MEDIA_ROOT = BASE_DIR /'media'
+
+

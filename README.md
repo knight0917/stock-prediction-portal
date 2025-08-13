@@ -51,4 +51,6 @@ Steps to follow:
 
 42. to download market data enter in jupyter: !pip install yfinance (can delete that line in juoyter after installation and just import it.)
 43. for data processing we need to install scikit-learn, keras: conda install scikit-learn keras
-44. to install tenserflow in jupyter notebook: !pip install tensorflow
+44. to install tenserflow in jupyter notebook: !pip install tensorflow.
+
+45. after doing the model training in jupyter, need to install all the packages in backend>api>views.py too
